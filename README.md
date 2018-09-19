@@ -1,2 +1,2 @@
 # Indoor-positioning
-votep method
+For my indoor positioning algorithm : Votep method.
