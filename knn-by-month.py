@@ -399,12 +399,12 @@ def main():
     # output_merge_file = 'E:\\db\\wknn_error\\wknn-m2-ori.csv'
 
     # param
-    test_m_end = 2
-    test_m_start = 2
+    test_m_end = 1
+    test_m_start = 15
     test_tra_no = 1
     floor = "3"
-    r_state = 1
-    row_state = 1
+    r_state = 0
+    row_state = 0
 
     # match by month
     for month in range(test_m_start, test_m_end + 1):
