@@ -18,4 +18,5 @@ For my indoor positioning algorithm : T-WKNN.
 ① AP selection
 ② 理论证明 tolerance-WKNN
 ③ 对比方法增加 WKNN M-WKNN GK LS-SVM
+
 2.补充部分注释
