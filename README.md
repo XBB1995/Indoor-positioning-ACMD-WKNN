@@ -1,8 +1,6 @@
-# Indoor-positioning
+# Indoor-positioning 室内定位
 
-室内定位
-
-室内定位算法：T-WKNN方法
+室内定位算法：T-WKNN方法源码
 
 For my indoor positioning algorithm : T-WKNN.
 
