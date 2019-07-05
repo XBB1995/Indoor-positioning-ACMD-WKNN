@@ -39,9 +39,9 @@ For my indoor positioning algorithm : ACMD-WKNN.
 3.实验结果多方面展示 CDF图 均值误差 均值方差 均方根误差等
 
 ACMD 自适应修正曼哈顿距离<br/>
-COSD 余弦距离
-ED 欧氏距离
-MD 曼哈顿距离
+COSD 余弦距离<br/>
+ED 欧氏距离<br/>
+MD 曼哈顿距离<br/>
 SD Sorense距离
 
 ![image](https://github.com/XBB1995/Indoor-positioning/raw/XBB1995-2019-4-22/image/result.jpg)
