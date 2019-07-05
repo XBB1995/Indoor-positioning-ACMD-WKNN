@@ -1,8 +1,8 @@
 # Indoor-positioning 室内定位
 
-室内定位算法：T-WKNN方法源码
+室内定位算法：ACMD-WKNN方法源码
 
-For my indoor positioning algorithm : T-WKNN.
+For my indoor positioning algorithm : ACMD-WKNN.
 
 **2018.11.12更新**
 
@@ -28,11 +28,21 @@ For my indoor positioning algorithm : T-WKNN.
 
 论文被录用XD
 
-1.使用自适应曼哈顿距离ACMD来匹配指纹
+1.使用自适应曼哈顿距离ACMD-WKNN来匹配指纹
+
+流程图
+
+![image](https://github.com/XBB1995/Indoor-positioning/raw/XBB1995-2019-4-22/image/flow.jpg)
 
 2.AP selection 针对每个RP进行，形成局部最优AP选择集合
 
 3.实验结果多方面展示 CDF图 均值误差 均值方差 均方根误差等
+
+ACMD 自适应修正曼哈顿距离
+COSD 余弦距离
+ED 欧氏距离
+MD 曼哈顿距离
+SOR Sorense距离
 
 ![image](https://github.com/XBB1995/Indoor-positioning/raw/XBB1995-2019-4-22/image/result.jpg)
 
