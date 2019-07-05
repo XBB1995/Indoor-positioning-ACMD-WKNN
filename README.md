@@ -34,5 +34,5 @@ For my indoor positioning algorithm : T-WKNN.
 
 3.实验结果多方面展示 CDF图 均值误差 均值方差 均方根误差等
 
-![image](https://github.com/XBB1995/Indoor-positioning/raw/dev/image/result.jpg)
+![image](https://github.com/XBB1995/Indoor-positioning/dev/image/result.jpg)
 
