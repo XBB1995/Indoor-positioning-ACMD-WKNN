@@ -23,3 +23,14 @@ For my indoor positioning algorithm : T-WKNN.
 ③ 对比方法增加 WKNN M-WKNN GK LS-SVM
 
 2.补充部分注释
+
+**2019.7.5更新**
+
+论文被录用XD
+
+1.使用自适应曼哈顿距离ACMD来匹配指纹
+
+2.AP selection 针对每个RP进行，形成局部最优AP选择集合
+
+3.实验结果多方面展示 CDF图 均值误差 均值方差 均方根误差等
+
